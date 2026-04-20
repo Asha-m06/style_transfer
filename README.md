@@ -18,3 +18,7 @@ The full implementation with outputs is available in:
 
 ##  Note
 This notebook contains full outputs and results for evaluation purposes.
+
+##  Dataset
+CIFAR-10 dataset is used in this project.
+It can be downloaded automatically from official sources.
